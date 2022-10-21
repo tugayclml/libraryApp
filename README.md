@@ -8,10 +8,9 @@ $ npm install
 
 Run this command for sqlite db with Prisma (prisma.io)
 
-$ npx prisma init --datasource-provider sqlite
-
 $ npx prisma migrate dev --name init
 
+$ npm run start
 
 ## Database Tables
 
